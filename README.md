@@ -12,6 +12,8 @@
 </div>
 
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -27,6 +29,10 @@
   </p>
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=marriiamm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=marriiamm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&hide=contribs,issues&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=2&include_all_commits=true&show=prs_merged,prs_merged_percentage" height="180" alt="mariam's GitHub Stats"  />
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langsusername=marriiamm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2"  height="180"  alt="languages graph"  />
 
 
 <!---
