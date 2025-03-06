@@ -28,14 +28,10 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   </p>
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=marriiamm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&hide=contribs,issues&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=2&include_all_commits=true&show=prs_merged,prs_merged_percentage" height="180" alt="mariam's GitHub Stats"  />
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=marriiamm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&hide=contribs,issues&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=2&include_all_commits=true&show=prs_merged,prs_merged_percentage" height="180" alt="mariam's GitHub Stats"  />
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marriiamm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2"  height="180"  alt="languages graph"  />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marriiamm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marriiamm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
